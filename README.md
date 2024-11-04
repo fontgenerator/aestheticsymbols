@@ -21,7 +21,7 @@ Star symbols add a touch of sparkle and positivity to your text. Choose from the
 ✩ (Hollow Star)<br>
 🌟 (Glowing Star)<br>
 
-3. Arrows<br><br>
+3. Arrows<br>
 Arrows are perfect for pointing to something important or adding flow to your text. Here are some common arrow symbols:<br>
 
 → (Right Arrow)<br>
@@ -30,7 +30,7 @@ Arrows are perfect for pointing to something important or adding flow to your te
 ↩ (Leftwards Arrow with Hook)<br>
 ➔ (Heavy Right Arrow)<br>
 
-4. Floral Symbols<br><br>
+4. Floral Symbols<br>
 Floral symbols add a delicate, natural touch to your designs. Here are some floral symbols for aesthetic use:<br>
 
 ✿ (Flower)<br>
@@ -39,7 +39,7 @@ Floral symbols add a delicate, natural touch to your designs. Here are some flor
 🌸 (Cherry Blossom)<br>
 🌷 (Tulip)<br>
 
-5. Lines and Borders<br><br>
+5. Lines and Borders<br>
 Lines and borders help separate sections and make text designs more visually appealing. Try these symbols:<br>
 
 ━ (Solid Line)<br>
@@ -48,7 +48,7 @@ Lines and borders help separate sections and make text designs more visually app
 ◈ (Diamond Border)<br>
 ╳ (Cross Line)<br>
 
-6. Cute Animal Faces<br><br>
+6. Cute Animal Faces<br>
 Animal faces bring a fun and friendly vibe to your text. Here are some cute faces to try:
 <br>
 ʕ•ᴥ•ʔ (Bear Face)<br>
@@ -57,7 +57,7 @@ Animal faces bring a fun and friendly vibe to your text. Here are some cute face
 ฅ^•ﻌ•^ฅ (Cat Paw)<br>
 U・ᴥ・U (Dog Face)<br>
 
-7. Decorative Arcs and Shapes<br><br>
+7. Decorative Arcs and Shapes<br>
 Add a decorative flair to your text with various arcs and shapes:
 <br>
 ︵ (Curved Line)<br>
