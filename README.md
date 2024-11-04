@@ -1,5 +1,5 @@
 # Aesthetic symbols
-<a href="https://www.aesthetic-symbols.com">latest aesthetic symbols</a><br>
+<a href="https://www.aesthetic-symbols.com">Latest aesthetic symbols</a><br>
 ## Popular Aesthetic Symbol Categories
 Explore different categories of aesthetic symbols below to find the perfect addition to your text designs.
 
