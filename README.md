@@ -1,6 +1,6 @@
 # Aesthetic symbols
-<a href="https://www.aesthetic-symbols.com">latest aesthetic symbols</a>
-Popular Aesthetic Symbol Categories
+<a href="https://www.aesthetic-symbols.com">latest aesthetic symbols</a><br>
+## Popular Aesthetic Symbol Categories
 Explore different categories of aesthetic symbols below to find the perfect addition to your text designs.
 
 1. Hearts
